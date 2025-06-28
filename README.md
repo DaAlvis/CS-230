@@ -1,5 +1,6 @@
 # CS-230
 [CS 230 Project Software Design Template_Alvis.docx](https://github.com/user-attachments/files/20958363/CS.230.Project.Software.Design.Template_Alvis.docx)
+
 Who was the client and what software did they need?
 
 The client was The Gaming Room, a company looking to expand their multiplayer game Draw It or Lose It. The game needed to be designed so that multiple teams could compete against each other, each with multiple players. The system needed to ensure that team and game names were unique and that only one version of the game could run in memory at a time. The ultimate goal was to create a scalable, web-based game that could work across different platforms while being secure, efficient, and ready for future growth.
