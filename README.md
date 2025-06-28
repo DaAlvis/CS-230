@@ -15,7 +15,8 @@ If I could revise one part, what would it be?
 
 I would go back and simplify some of the more technical sections in the recommendations. While the content was accurate, I’d want to make sure every section could be easily understood by a client who might not have a technical background. I’d probably include more real-world examples or visuals to make those concepts even clearer.
 
-How did I interpret and implement the user’s needs?
+How did I interpret and implement the user’s needs?[CS 230 Project Software Design Template_Alvis.docx](https://github.com/user-attachments/files/20958363/CS.230.Project.Software.Design.Template_Alvis.docx)
+
 
 I focused on making sure the software design directly addressed the client’s goals, especially the need for one active game instance and unique identifiers for games, teams, and players. These features were implemented using object-oriented programming principles like encapsulation, inheritance, and the singleton pattern. Keeping the user’s experience and needs front and center was important for making sure the final design was functional and user-friendly.
 
