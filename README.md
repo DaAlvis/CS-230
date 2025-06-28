@@ -1,4 +1,5 @@
 # CS-230
+[CS 230 Project Software Design Template_Alvis.docx](https://github.com/user-attachments/files/20958363/CS.230.Project.Software.Design.Template_Alvis.docx)
 Who was the client and what software did they need?
 
 The client was The Gaming Room, a company looking to expand their multiplayer game Draw It or Lose It. The game needed to be designed so that multiple teams could compete against each other, each with multiple players. The system needed to ensure that team and game names were unique and that only one version of the game could run in memory at a time. The ultimate goal was to create a scalable, web-based game that could work across different platforms while being secure, efficient, and ready for future growth.
@@ -15,8 +16,7 @@ If I could revise one part, what would it be?
 
 I would go back and simplify some of the more technical sections in the recommendations. While the content was accurate, I’d want to make sure every section could be easily understood by a client who might not have a technical background. I’d probably include more real-world examples or visuals to make those concepts even clearer.
 
-How did I interpret and implement the user’s needs?[CS 230 Project Software Design Template_Alvis.docx](https://github.com/user-attachments/files/20958363/CS.230.Project.Software.Design.Template_Alvis.docx)
-
+How did I interpret and implement the user’s needs?
 
 I focused on making sure the software design directly addressed the client’s goals, especially the need for one active game instance and unique identifiers for games, teams, and players. These features were implemented using object-oriented programming principles like encapsulation, inheritance, and the singleton pattern. Keeping the user’s experience and needs front and center was important for making sure the final design was functional and user-friendly.
 
